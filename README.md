@@ -1,6 +1,7 @@
 # Neumann N149A/V Tube Power Supply Reverse Engineering
-This project aims to reverse engineer and document the design of the PCB inside Neumann N194A and N194V type power supplys 
-as well as offer a replacement linear design for the discrete SMPS inside of each stock unit.
+This project aims to reverse engineer and document the design of Neumann type N194A and N194V power supplys.
+Furthermore, this project is primarily concerned the deisgn of the PCB found inside as well as offering a replacement linear 
+design for the discrete SMPS inside of each stock unit.
 
 # Operation
 These power supplys offer a small variety of voltage rails to be used with a connected Neumann M147, M149, or M150 type tube
